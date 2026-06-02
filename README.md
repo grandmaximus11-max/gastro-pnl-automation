@@ -12,11 +12,12 @@ and a Czech-VAT-ready ledger, driven entirely from a phone.
 
 ## The problem
 
-A small restaurant owner loses about 10 hours a month turning receipts, email
+A small restaurant owner spends hours every month turning receipts, email
 invoices, a card terminal export and daily cash counts into a spreadsheet, then
 pays an accountant to make a VAT return out of it. The data comes from four or
 five channels and nothing links them. Invoices get lost. Some go unpaid. The VAT
-math is done by hand.
+math is done by hand. With this tool the routine drops to a fraction of that, and
+the VAT paperwork is ready almost immediately.
 
 ## What it does
 
